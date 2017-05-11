@@ -16,14 +16,14 @@ This is of course a basic starter kit but I hope it will encourage others to bui
 
 # Parts
 (I do not recommend any particular supplier or product here)
-Raspberry Pi 3 (wifi enabled) and Memory Card (the faster the better as node-red does add some overhead processing)
-Wifi dongle if not using a wifi enabled Raspberry Pi
-Explorer pHat or Explorer Hat eg https://shop.pimoroni.com/products/explorer-phat
-Robot Chassis. Any bare chassis will do. eg https://shop.pimoroni.com/products/sts-pi
-Rasberry Pi Camera
-Ultrasonic Range Finder
-Cylindrical Mobile Phone Backup Rechargable Battery. eg https://www.amazon.co.uk/Anker-PowerCore-Aluminum-Portable-Lipstick-Sized/dp/B005QI1A8C/ref=sr_1_11?ie=UTF8&qid=1494517006&sr=8-11&keywords=mobile+phone+backup+battery
-Powered Speaker
-Usb Microphone 
-Short Usb Cable to connect Battery to Pi
+* Raspberry Pi 3 (wifi enabled) and Memory Card (the faster the better as node-red does add some overhead processing)
+* Wifi dongle if not using a wifi enabled Raspberry Pi
+* Explorer pHat or Explorer Hat eg https://shop.pimoroni.com/products/explorer-phat
+* Robot Chassis. Any bare chassis will do. eg https://shop.pimoroni.com/products/sts-pi
+* Rasberry Pi Camera
+* Ultrasonic Range Finder
+* Cylindrical Mobile Phone Backup Rechargable Battery. eg https://www.amazon.co.uk/Anker-PowerCore-Aluminum-Portable-Lipstick-Sized/dp/B005QI1A8C/ref=sr_1_11?ie=UTF8&qid=1494517006&sr=8-11&keywords=mobile+phone+backup+battery
+* Powered Speaker
+* Usb Microphone 
+* Short Usb Cable to connect Battery to Pi
 
